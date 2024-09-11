@@ -1,0 +1,35 @@
+date Command
+cal Command
+df Command
+clear Command
+ip Command
+ping Command
+free mb command
+free gb command
+top command
+pwd Command
+mkdir Command
+rmdir Command  use rm -rf
+ls Command
+cd Command
+touch Command
+cat Command
+rm Command
+cp Command
+mv Command
+head Command
+tail Command
+tac Command
+su Command
+id Command
+useradd Command
+passwd Command
+grep Command
+uniq Command
+locate Command
+
+
+
+
+for saving the file esc :wq
+for exit :q!
